@@ -1,0 +1,7 @@
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.csproj.AssemblyReference.cache
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.AssemblyInfoInputs.cache
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.AssemblyInfo.cs
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.csproj.CoreCompileInputs.cache
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IATR\source\repos\DevGames\DevGames.API\obj\Debug\net6.0\DevGames.API.MvcApplicationPartsAssemblyInfo.cache
